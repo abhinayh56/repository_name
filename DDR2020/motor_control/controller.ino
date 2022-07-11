@@ -8,6 +8,10 @@ void calculate_trajectory()
   timer = timer + dt;
 }
 
+void test(){
+  // test function
+}
+
 void control_angle()
 {
   //th01 = 360;
